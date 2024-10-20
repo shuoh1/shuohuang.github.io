@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuo Huang"
+title: "Shuo Huang's personal website"
 author_profile: true
 redirect_from: 
   - /about/
